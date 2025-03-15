@@ -8,6 +8,7 @@
 2. Создайте файл `.env` и добавьте в него ваш API ключ:
    ```bash
    OPENAI_API_KEY=your-openai-key
+   DATABASE_URL=sqlite:///business.db
    ```
 
 ### 📌 Логирование

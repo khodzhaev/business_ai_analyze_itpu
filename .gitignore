@@ -1,0 +1,8 @@
+venv/
+.env
+logs.txt
+.db
+.streamlit/secrets.toml
+
+pycache/
+__pycache__/
